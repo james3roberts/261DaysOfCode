@@ -17,4 +17,6 @@ kept working on the scraper. I made a proxy so that I will not get booted form s
 and spend more time actually using the things I have learned. I have more learning to do because I updated this readMe file but can not push it in terminal. but it was updated here so I am not sure what is going on there. Just another reason why I am taking
 notes on everything that I am doing. 
 Day 4.
- 
+So after I finished with my notes last night I learned that i needed to pull from GitHub what I had pushed and then I was able to update the readme. I know it was just
+a quick google search but I feel that at this point that shoud just be common sense. Anyway tonight I will keep working on the scraper. So I was able to find the div tag
+that holdes all of the jobs listing. So I was able to gather all of that and pull it to my screen.  
