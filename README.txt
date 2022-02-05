@@ -20,3 +20,4 @@ Day 4.
 So after I finished with my notes last night I learned that i needed to pull from GitHub what I had pushed and then I was able to update the readme. I know it was just
 a quick google search but I feel that at this point that shoud just be common sense. Anyway tonight I will keep working on the scraper. So I was able to find the div tag
 that holdes all of the jobs listing. So I was able to gather all of that and pull it to my screen.  
+I now know that i need to use the pull request in the cli to be able to edit the read me this is done by git pull name of file and branch. 
