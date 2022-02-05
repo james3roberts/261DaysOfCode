@@ -40,6 +40,6 @@ def getProxies(inURL):
     ## so After inspecting the html code it looks like the td tag for indeed is called
     ##id = resultsCol  this has each listing in it 
     ## make a variable to access the actual get the infor from the div tag
-    jobs = soup.find(id = 'resultsCol')
+    jobs = soup.find(id = "resultsCol")
     print (jobs)
 #time 21:12
