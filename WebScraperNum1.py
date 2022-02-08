@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from itertools import cycle
 import csv
+import os
 
 ##Going to make proxy so I dont get kicked
 ##Create a function to call as needed
@@ -41,5 +42,8 @@ def getProxies(inURL):
     ##id = resultsCol  this has each listing in it 
     ## make a variable to access the actual get the infor from the div tag
     jobs = soup.find(id = "resultsCol")
-    print (jobs)
-#time 21:12
+    job_elems = jobs.find_all('div', class_= 'jobsearch-SerpJobCard')
+    for desc in job_elems:
+        title = desc.find('h2',class_='title')
+        print (title)
+        #time 26:59

@@ -21,3 +21,6 @@ So after I finished with my notes last night I learned that i needed to pull fro
 a quick google search but I feel that at this point that shoud just be common sense. Anyway tonight I will keep working on the scraper. So I was able to find the div tag
 that holdes all of the jobs listing. So I was able to gather all of that and pull it to my screen.  
 I now know that i need to use the pull request in the cli to be able to edit the read me this is done by git pull name of file and branch. 
+Day 5.
+Tomorrow I hope to move this list of notes to a google doc and just uss this as a read me. It does not make sense to put this will the code at this time. but I did 
+put some more work on the scraper. I hope that this will be a short week at school so that I can get more of this project done. 
